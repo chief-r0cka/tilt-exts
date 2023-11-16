@@ -1,0 +1,10 @@
+*/test/.helm
+*/test/.git-sources
+*/test/.tilt-cache
+*/test/.build
+*/test/tilt_modules
+*/__pycache__
+
+workflow_*.tmp
+
+.tilt-cache
